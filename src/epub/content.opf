@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/erich-maria-remarque/all-quiet-on-the-western-front/a-w-wheen</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-01T09:01:00Z</dc:date>
+		<meta property="dcterms:modified">2025-01-01T09:01:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -32,14 +32,20 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113819</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A young German man volunteers for the army at the outbreak of World War I.</dc:description>
+		<dc:description id="description">A young German soldier struggles to survive on the Western Front of World War I.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;All Quiet on the Western Front&lt;/i&gt; has often been called one of the most powerful war novels ever written. Set in the latter half of World War I, the novel follows Paul Bäumer, a young German recruit, as he fights for his life in the trenches of the Western Front.&lt;/p&gt;
+			&lt;p&gt;Paul is a schoolboy in a picturesque German village when World War I breaks out. Patriotic speeches at his school embolden him and his friends to volunteer for the German army. But their patriotism soon withers to a bleak, tortured, dehumanized agony as they struggle to survive the crushing horrors of endless artillery fire, trench warfare, tanks, gas, and hunger.&lt;/p&gt;
+			&lt;p&gt;The novel follows Paul as he and his company endure some of the most brutal physical and mental conditions ever unleashed on the face of the earth, as the new mechanized, technological style of war grinds and burns humans to physical pulp, seemingly at random, and for seemingly no benefit. Tiny slivers of land are gained at an enormous cost of human life, only to be lost again days later. Those who survive are left both mentally and physically shattered, unable to reintegrate into civilian life, almost like living ghosts returned from hell.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/erich-maria-remarque"&gt;Remarque&lt;/a&gt; himself was conscripted into the German army at the age of 18 and served in the trenches of the Western Front, before being wounded and evacuated. After recovering he was sent back to the front, but the war ended just a month afterwards.&lt;/p&gt;
+			&lt;p&gt;He published the novel serially in 1928, a decade after the armistice. It saw immediate success, becoming the best-selling fiction novel in America in 1929 and moving 2.5 million copies in its first year and half. The grotesque horror of Remarque’s writing shocked contemporary readers, painting a raw picture of the reality of war for those who had consumed little but propaganda at home.&lt;/p&gt;
+			&lt;p&gt;But the novel’s success was despite of—or perhaps because of—its conspicuous avoidance of politics. Remarque quietly declines to mention any political or strategic perspectives, opting to focus entirely on the physical existence of soldiers so engaged in pure survival that not only are politics totally unimportant to them, but one could imagine them fighting for any side.&lt;/p&gt;
+			&lt;p&gt;So moving was the novel that it was quickly banned in many European countries as being anti-war propaganda; regardless, in 1931 it led to Remarque being nominated for both the Nobel Peace Prize and the Nobel Prize in Literature. In 1933, after the Nazis rose to power in Germany, it was one of the first so-called “degenerate books” that the party banned and burned as they sought to reignite the nationalism and wartime spirit that the novel so thoroughly condemns.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/allquietonwester0000eric_j5m7</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">63391</meta>
+		<meta property="se:reading-ease.flesch">83.15</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/erich-maria-remarque_all-quiet-on-the-western-front_a-w-wheen</meta>
 		<dc:creator id="author">Erich Maria Remarque</dc:creator>
