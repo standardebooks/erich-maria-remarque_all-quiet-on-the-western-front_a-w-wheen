@@ -51,13 +51,13 @@
 		<dc:creator id="author">Erich Maria Remarque</dc:creator>
 		<meta property="file-as" refines="#author">Remarque, Erich Maria</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Erich_Maria_Remarque</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n84223789</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n84223789</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">A. W. Wheen</dc:contributor>
 		<meta property="file-as" refines="#translator">Wheen, A. W.</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Arthur Wesley Wheen</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Arthur_Wheen</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/n96001357</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n96001357</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Cyrus Cuneo</dc:contributor>
 		<meta property="file-as" refines="#artist">Cuneo, Cyrus</meta>
