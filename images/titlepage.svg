@@ -27,8 +27,8 @@
 			font-size: 46.78362656px;
 		}
 	</style>
-	<text class="title" x="700" y="130">ALL QUIET ON</text>
-	<text class="title" x="700" y="230">THE WESTERN FRONT</text>
+	<text class="title" x="700" y="130">ALL QUIET ON THE</text>
+	<text class="title" x="700" y="230">WESTERN FRONT</text>
 	<text class="author" x="700" y="390">ERICH MARIA REMARQUE</text>
 	<text class="contributor-descriptor" x="700" y="580">translated by</text>
 	<text class="contributor" x="700" y="640">A. W. WHEEN</text>
