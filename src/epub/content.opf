@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113819</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young German soldier struggles to survive on the Western Front of World War I.</dc:abstract>
+		<meta property="schema:abstract">A young German soldier struggles to survive on the Western Front of World War I.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;All Quiet on the Western Front&lt;/i&gt; has often been called one of the most powerful war novels ever written. Set in the latter half of World War I, the novel follows Paul Bäumer, a young German recruit, as he fights for his life in the trenches of the Western Front.&lt;/p&gt;
 			&lt;p&gt;Paul is a schoolboy in a picturesque German village when World War I breaks out. Patriotic speeches at his school embolden him and his friends to volunteer for the German army. But their patriotism soon withers to a bleak, tortured, dehumanized agony as they struggle to survive the crushing horrors of endless artillery fire, trench warfare, tanks, gas, and hunger.&lt;/p&gt;
