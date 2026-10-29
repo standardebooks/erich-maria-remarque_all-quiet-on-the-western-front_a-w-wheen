@@ -66,6 +66,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Cyrus Cuneo</dc:contributor>
 		<meta property="file-as" refines="#artist">Cuneo, Cyrus</meta>
+		<meta property="schema:alternateName" refines="#artist">Cyrus Cincinato Cuneo</meta>
 		<link href="https://en.wikipedia.org/wiki/Cyrus_Cuneo" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/no98104456.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
